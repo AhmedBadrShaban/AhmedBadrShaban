@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Badr — Software Engineer</title>
+  <desc id="desc">A typographic banner with a connected interface and systems diagram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10131d"/>
+      <stop offset="1" stop-color="#191c2a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#e5ff83" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#e5ff83" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#b4bac9" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect x="0" y="0" width="1200" height="360" rx="18" fill="url(#dots)"/>
+  <circle cx="1035" cy="178" r="270" fill="url(#glow)"/>
+  <path d="M 36 18 H 1164 Q 1182 18 1182 36 V 324 Q 1182 342 1164 342 H 36 Q 18 342 18 324 V 36 Q 18 18 36 18 Z" fill="none" stroke="#383d4d"/>
+  <rect x="54" y="45" width="43" height="43" rx="11" fill="#e5ff83"/>
+  <text x="63" y="74" fill="#151821" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="900" letter-spacing="-2">AB</text>
+  <text x="111" y="72" fill="#c5c9d3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">AHMED BADR SHABAAN</text>
+  <path d="M 54 110 H 640" stroke="#3a3f4e"/>
+  <text x="50" y="183" fill="#f7f7f3" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-3">Software</text>
+  <text x="50" y="253" fill="#e5ff83" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="-3">Engineer<tspan fill="#f7f7f3">.</tspan></text>
+  <text x="55" y="305" fill="#aeb4c3" font-family="Arial, Helvetica, sans-serif" font-size="17">Interfaces, systems &amp; the space between.</text>
+  <path d="M 795 147 H 842 M 795 252 H 842 M 936 199 H 974" fill="none" stroke="#c2c8d4" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="842" cy="147" r="4" fill="#e5ff83"/>
+  <circle cx="842" cy="252" r="4" fill="#e5ff83"/>
+  <circle cx="974" cy="199" r="4" fill="#e5ff83"/>
+  <rect x="710" y="101" width="112" height="94" rx="12" fill="#242936" stroke="#666e80"/>
+  <rect x="710" y="101" width="112" height="19" rx="12" fill="#323849"/>
+  <circle cx="725" cy="111" r="3" fill="#e5ff83"/>
+  <circle cx="736" cy="111" r="3" fill="#7e879b"/>
+  <path d="M 727 138 H 802 M 727 150 H 778 M 727 166 H 758" stroke="#c9d1e0" stroke-width="5" stroke-linecap="round" opacity=".72"/>
+  <rect x="710" y="208" width="112" height="89" rx="12" fill="#242936" stroke="#666e80"/>
+  <path d="M 727 270 V 247 L 746 253 L 765 233 L 785 241 L 805 223" fill="none" stroke="#e5ff83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 727 279 H 805" stroke="#697284"/>
+  <rect x="844" y="139" width="92" height="116" rx="12" fill="#2d3340" stroke="#a2acbd"/>
+  <text x="865" y="177" fill="#e5ff83" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">API</text>
+  <path d="M 864 191 H 916 M 864 203 H 902 M 864 215 H 910 M 864 227 H 891" stroke="#aeb6c5" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+  <rect x="976" y="148" width="155" height="101" rx="12" fill="#242936" stroke="#666e80"/>
+  <ellipse cx="1054" cy="170" rx="48" ry="12" fill="#414a5d" stroke="#c4ccda"/>
+  <path d="M 1006 170 V 223 C 1006 239 1102 239 1102 223 V 170" fill="#414a5d" stroke="#c4ccda"/>
+  <path d="M 1006 195 C 1006 211 1102 211 1102 195 M 1006 219 C 1006 235 1102 235 1102 219" fill="none" stroke="#c4ccda" opacity=".8"/>
+  <text x="734" y="326" fill="#aeb4c3" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">PRODUCT UI</text>
+  <text x="854" y="326" fill="#aeb4c3" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">SERVICES</text>
+  <text x="1008" y="326" fill="#aeb4c3" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">DATA</text>
+</svg>
