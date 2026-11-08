@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ahmed-banner.svg" alt="Ahmed Badr Shabaan Ahmed — software engineer building clear, capable digital products" width="100%" />
+<img src="assets/ahmed-banner-animated.gif" alt="Ahmed Badr Shabaan Ahmed — software engineer building clear, capable digital products" width="100%" />
 
 ### Software Engineer · Angular, TypeScript & product systems · Cairo, Egypt
 
@@ -45,7 +45,13 @@ Some of the most interesting systems I work on live in private repositories. The
 
 ### 📊 GitHub activity
 
+<div align="center">
+
+[![Ahmed Badr GitHub contribution streak](https://streak-stats.demolab.com/?user=AhmedBadrShaban&theme=github-dark-blue&hide_border=true)](https://github.com/AhmedBadrShaban?tab=overview)
+
 [View my contribution activity and public repositories →](https://github.com/AhmedBadrShaban?tab=overview)
+
+</div>
 
 ---
 
