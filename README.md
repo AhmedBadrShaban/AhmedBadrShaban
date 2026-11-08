@@ -24,7 +24,7 @@ I work across product portals, operations dashboards, and the systems behind the
 | :--- | :--- | :--- |
 | **Clinic Management System** | Angular · TypeScript · Angular Material | Interfaces for administrators, doctors, and receptionists; patient reservations, doctor schedules, billing, and reports. *Private project* |
 | **Souk Elkhodar** | Angular · SSR · Express · PostgreSQL | Bilingual storefront with catalog, cart, checkout, and order tracking; separate admin dashboard and API. *Private project* |
-| [**Empire of Gold ↗**](https://empireofgold.co/) | Angular · TypeScript · SSR · Tailwind CSS | Public gold-commerce storefront with Arabic/English content, product discovery, and search-friendly page metadata. |
+| [**Empire of Gold ↗**](https://empireofgold.co/) | Angular · TypeScript · SSR · Tailwind CSS | Public gold-commerce storefront with Arabic/English product discovery. Worked on Angular SSR and technical SEO, including canonical URLs, hreflang, dynamic metadata, robots.txt, and sitemap handling. |
 
 ### Work behind the scenes
 
